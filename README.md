@@ -1,5 +1,17 @@
-# 💫 About Me:
-<br><br>Full Stack Developer passionate about building scalable and user-friendly web applications using the MERN stack. Skilled in JavaScript, React.js, Node.js, Express.js, and MongoDB with hands-on experience in developing real-world projects like E-commerce platforms, LMS systems, and Movie Ticket Booking applications.<br><br>Currently pursuing BCA and continuously improving problem-solving, backend development, and software engineering skills. Interested in startups, modern web technologies, and creating impactful digital products.<br>
+# 👋 Hi, I'm Sushil Kumar
+
+🚀 Full Stack Developer passionate about building scalable, responsive, and user-friendly web applications using the MERN Stack.
+
+💻 Skilled in JavaScript, React.js, Node.js, Express.js, and MongoDB with hands-on experience in developing real-world projects such as:
+
+* 🛒 E-Commerce Web Applications
+* 🎓 Learning Management Systems (LMS)
+* 🎬 Movie Ticket Booking Platforms
+
+🌱 Currently pursuing BCA and continuously improving problem-solving, backend development, and software engineering skills.
+
+⚡ Interested in startups, modern web technologies, and building impactful digital products that solve real-world problems.
+
 
 
 ## 🌐 Socials:
